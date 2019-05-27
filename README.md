@@ -7,6 +7,7 @@
 ２０１９年度版のアンリミの概要です。基本的に本ページを参考に１年間活動します。
 
 ![unlimi](https://user-images.githubusercontent.com/49390900/55771857-a0d64e80-5ac4-11e9-9862-d978c163df0a.jpg)
+![題](https://user-images.githubusercontent.com/49390900/55771857-a0d64e80-5ac4-11e9-9862-d978c163df0a.jpg"タイトル")
 
 # このサークルの特徴
 
@@ -20,4 +21,4 @@
 
 <h4>・TRY AND ERROR</h4> <a>アンリミテッドでは大学生だれでもできることは求められていません。積極的に挑戦してください。本番でのミスは望ましくありませんが、そこまでのプロセスでのミスはたくさんあって当たり前です</a>
 
-![alt](https://github.com/YumaFujisawa/sample/blob/master/IMG_1373.JPG)
+
