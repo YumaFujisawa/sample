@@ -23,13 +23,3 @@
 
 
 
-
-#include<stdio.h>
-
-int main(void){
-
-printf("練習");
-
-getchar();
-return 0;
-}
