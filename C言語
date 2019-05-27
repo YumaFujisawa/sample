@@ -1,0 +1,16 @@
+#include<stdio.h>
+
+int main(void){
+
+  double bb[80]={1,2,3};
+  avethree(bb);
+  printf("平均の結果:%.3f¥n",bb[0]);
+  return 0;
+  }
+  
+  void avethree(double yy[]){
+  yy[0]=(yy[0]+yy[1]+yy[2])/3;
+  }
+ 
+  
+  
