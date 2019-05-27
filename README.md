@@ -7,7 +7,7 @@
 ２０１９年度版のアンリミの概要です。基本的に本ページを参考に１年間活動します。
 
 ![unlimi](https://user-images.githubusercontent.com/49390900/55771857-a0d64e80-5ac4-11e9-9862-d978c163df0a.jpg)
-![題](https://user-images.githubusercontent.com/49390900/55771857-a0d64e80-5ac4-11e9-9862-d978c163df0a.jpg"タイトル")
+![タイトル](https://user-images.githubusercontent.com/49390900/55771857-a0d64e80-5ac4-11e9-9862-d978c163df0a.jpg　"タイトル")
 
 # このサークルの特徴
 
